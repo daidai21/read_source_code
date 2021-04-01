@@ -1,0 +1,9 @@
+docs/_build
+__pycache__/
+.vscode
+venv*
+*.egg-info
+
+benchmarks/curio/
+benchmarks/env/
+benchmarks/results/
