@@ -88,9 +88,38 @@ find process：
 4. find issue label
 5. find issue, craete PR
 
+filter repository:
+
+1. starts > 10k
+2. create time within 2 years
+3. type: framework, middleware, insfra, system
+4. have: level (committer, contributor, etc), contribution guide
+
+`created:YYYY:>2018-01-01 stars:>10000`
+
+growth route:
+
+1. User
+2. Contributor
+   1. create issue
+      1. question
+      2. bug
+      3. feature
+   2. answer issue
+      1. question
+      2. bug
+      3. feature
+   3. PR
+      1. translation / typo / doc
+      2. bug
+      3. feature
+3. Committer
+4. PMC
+5. Member
+
 ===
 
-https://github.com/tanjunchen/ParticipateCommunity
-https://zhuanlan.zhihu.com/p/70761898
-https://www.zhihu.com/people/oooooutsider
-https://www.bilibili.com/video/av65456902
+* https://github.com/tanjunchen/ParticipateCommunity
+* https://zhuanlan.zhihu.com/p/70761898
+* https://www.zhihu.com/people/oooooutsider
+* https://www.bilibili.com/video/av65456902
