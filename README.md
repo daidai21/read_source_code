@@ -91,8 +91,8 @@ find process：
 filter repository:
 
 1. starts > 10k
-2. create time within 2 years
-3. type: framework, middleware, insfra, system
+2. create time within 2 years, new tech (easy join)
+3. type: framework, middleware, insfra, system, (small tool)
 4. have: level (committer, contributor, etc), contribution guide
 
 `created:YYYY:>2018-01-01 stars:>10000`
