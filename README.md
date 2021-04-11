@@ -68,6 +68,37 @@ https://opensource.tencent.com/
 
 ===
 
+Top200 Originzation
+
+1. google
+2. facebook
+3. apache
+4. alibaba
+5. https://github.com/hashicorp
+6. https://github.com/kubernetes
+7. https://github.com/spring-projects
+8. https://github.com/golang
+9. https://github.com/elastic
+10. https://github.com/pallets `#py` `#flask`
+11. https://github.com/moby
+12. https://github.com/django
+13. https://github.com/prometheus `#go`
+14. https://github.com/httpie `#http` `#py`
+15. https://github.com/python `#py` `#c`
+16. https://github.com/scrapy `#py`
+17. https://github.com/encode
+18. https://github.com/scikit-learn
+19. https://github.com/pingcap
+
+===
+
+find issue for PR:
+
+label:"help wanted"
+label:"good first issue"
+
+===
+
 filter issue：
 
 1. 可复现性
